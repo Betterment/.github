@@ -4,7 +4,7 @@
 
 We're passionate about building the simplest, most sophisticated investment platform on the planet. We're engineering Betterment to become a top-notch fintech company. High quality code. Beautiful, practical design. A product that people love. Nerd out with us on all things tech. Check out our [engineering blog](https://www.betterment.com/category/engineering/)
 
-[![Hiring badge](assets/hiring-button.svg)](https://www.betterment.com/careers/)
+[![We're hiring button](assets/hiring-button.svg)](https://www.betterment.com/careers/)
 
 ### Upcoming talks and events
 
@@ -15,10 +15,10 @@ We're passionate about building the simplest, most sophisticated investment plat
 ### Hear from our engineers
 
 #### Can I break this?: Writing resilient "save" methods - @smudge
-[![Can I break this?: Writing resilient "save" methods video link](https://img.youtube.com/vi/TuhS13rBoVY/0.jpg)](https://www.youtube.com/watch?v=TuhS13rBoVY)
+[![Can I break this?: Writing resilient "save" methods video link](assets/can-i-break-this-writing-resilient-save-methods.png)](https://www.youtube.com/watch?v=TuhS13rBoVY)
 
 #### Transitioning to Flutter at Scale - @samandmoore
-[![Transitioning to Flutter at Scale audio link](https://venturi-group.com/content/uploads/2020/11/Venturis-Voice-Web-Template-New-28.png)](https://soundcloud.com/user-910706127/transitioning-to-flutter-at-scale)
+[![Transitioning to Flutter at Scale audio link](assets/transitioning-to-flutter-at-scale.png)](https://soundcloud.com/user-910706127/transitioning-to-flutter-at-scale)
 
 ### Our open-sourced work
 
