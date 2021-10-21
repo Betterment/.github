@@ -8,16 +8,16 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 ### Upcoming talks and events
 
-@yieldjessyield and @caffeineflo speaking at [droidcon london](https://www.london.droidcon.com/program/is-flutter-the-coke-zero-of-the-mobile-world%3F)
+- @yieldjessyield and @caffeineflo speaking at [droidcon london](https://www.london.droidcon.com/program/is-flutter-the-coke-zero-of-the-mobile-world%3F)
 
-@6f6d6172 speaking at [rubyconf Denver](https://rubyconf.org/program/sessions#session-1211)
+- @6f6d6172 speaking at [rubyconf Denver](https://rubyconf.org/program/sessions#session-1211)
 
 ### Hear from our engineers
 
 #### Can I break this?: Writing resilient "save" methods - @smudge
 [![Can I break this?: Writing resilient "save" methods video link](https://img.youtube.com/vi/TuhS13rBoVY/0.jpg)](https://www.youtube.com/watch?v=TuhS13rBoVY)
 
-#### Transitioning to Flutter at Scale - @samandmore
+#### Transitioning to Flutter at Scale - @samandmoore
 [![Transitioning to Flutter at Scale audio link](https://venturi-group.com/content/uploads/2020/11/Venturis-Voice-Web-Template-New-28.png)](https://soundcloud.com/user-910706127/transitioning-to-flutter-at-scale)
 
 ### Our open-sourced work
