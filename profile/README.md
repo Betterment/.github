@@ -4,7 +4,7 @@
 
 [![Hiring badge](https://img.shields.io/badge/We're-hiring-green.svg)](https://www.betterment.com/careers/)
 
-We're passionate about building the simplest, most sophisticated investment platform on the planet. Check out our [engineering blog](https://www.betterment.com/category/engineering/)
+We're passionate about building the simplest, most sophisticated investment platform on the planet. We're engineering Betterment to become a top-notch fintech company. High quality code. Beautiful, practical design. A product that people love. Nerd out with us on all things tech. Check out our [engineering blog](https://www.betterment.com/category/engineering/)
 
 ### Upcoming talks and events
 
