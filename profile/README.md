@@ -10,6 +10,8 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 @yieldjessyield and @caffeineflo speaking at [droidcon london](https://www.london.droidcon.com/program/is-flutter-the-coke-zero-of-the-mobile-world%3F)
 
+@6f6d6172 speaking at [rubyconf Denver](https://rubyconf.org/program/sessions#session-1211)
+
 ### Hear from our engineers
 
 #### Can I break this?: Writing resilient "save" methods - @smudge
