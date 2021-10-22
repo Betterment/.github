@@ -12,6 +12,8 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 - @6f6d6172 speaking at [rubyconf Denver](https://rubyconf.org/program/sessions#session-1211)
 
+- @hipsterbrown speaking at [JSConf Mexico](https://jsconf.mx/#speakers)
+
 ### Hear from our engineers
 
 #### Can I break this?: Writing resilient "save" methods - @smudge
