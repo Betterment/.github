@@ -8,18 +8,18 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 ### Upcoming talks and events
 
-- @yieldjessyield and @caffeineflo speaking at [droidcon london](https://www.london.droidcon.com/program/is-flutter-the-coke-zero-of-the-mobile-world%3F)
+- [@yieldjessyield](https://github.com/yieldjessyield) and [@caffeineflo](https://github.com/caffeineflo) speaking at [droidcon london](https://www.london.droidcon.com/program/is-flutter-the-coke-zero-of-the-mobile-world%3F)
 
-- @6f6d6172 speaking at [rubyconf Denver](https://rubyconf.org/program/sessions#session-1211)
+- [@6f6d6172](https://github.com/6f6d6172) speaking at [rubyconf Denver](https://rubyconf.org/program/sessions#session-1211)
 
-- @HipsterBrown speaking at [JSConf Mexico](https://jsconf.mx/#speakers)
+- [@HipsterBrown](https://github.com/HipsterBrown) speaking at [JSConf Mexico](https://jsconf.mx/#speakers)
 
 ### Hear from our engineers
 
-#### Can I break this?: Writing resilient "save" methods - @smudge
+#### Can I break this?: Writing resilient "save" methods - [@smudge](https://github.com/smudge)
 [![Can I break this?: Writing resilient "save" methods video link](assets/can-i-break-this-writing-resilient-save-methods.png)](https://www.youtube.com/watch?v=TuhS13rBoVY)
 
-#### Transitioning to Flutter at Scale - @samandmoore
+#### Transitioning to Flutter at Scale - [@samandmoore](https://github.com/samandmoore)
 [![Transitioning to Flutter at Scale audio link](assets/transitioning-to-flutter-at-scale.png)](https://soundcloud.com/user-910706127/transitioning-to-flutter-at-scale)
 
 ### Our open-sourced work
