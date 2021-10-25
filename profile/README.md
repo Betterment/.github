@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/871554?s=200&v=4" alt="Betterment's profile image"/>
+  <a href="https://www.betterment.com">
+    <img src="https://avatars.githubusercontent.com/u/871554?s=200&v=4" alt="Betterment's profile image"/>
+  </a>
 </p>
+
+# 👋  Hey there! It's us, Betterment Engineering.
 
 We're passionate about building the simplest, most sophisticated investment platform on the planet. We're engineering Betterment to become a top-notch fintech company. High quality code. Beautiful, practical design. A product that people love. Nerd out with us on all things tech. Check out our [engineering blog](https://www.betterment.com/category/engineering/)
 
 [![We're hiring button](assets/hiring-button.svg)](https://www.betterment.com/careers/)
 
-### Upcoming talks and events
+## Upcoming talks and events
 
 - [@yieldjessyield](https://github.com/yieldjessyield) and [@caffeineflo](https://github.com/caffeineflo) speaking at [droidcon london](https://www.london.droidcon.com/program/is-flutter-the-coke-zero-of-the-mobile-world%3F)
 
@@ -14,21 +18,21 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 - [@HipsterBrown](https://github.com/HipsterBrown) speaking at [JSConf Mexico](https://jsconf.mx/#speakers)
 
-### Hear from our engineers
+## Hear from our engineers
 
-#### Can I break this?: Writing resilient "save" methods - [@smudge](https://github.com/smudge)
+### Can I break this?: Writing resilient "save" methods - [@smudge](https://github.com/smudge)
 [![Can I break this?: Writing resilient "save" methods video link](assets/can-i-break-this-writing-resilient-save-methods.png)](https://www.youtube.com/watch?v=TuhS13rBoVY)
 
-#### Transitioning to Flutter at Scale - [@samandmoore](https://github.com/samandmoore)
+### Transitioning to Flutter at Scale - [@samandmoore](https://github.com/samandmoore)
 [![Transitioning to Flutter at Scale audio link](assets/transitioning-to-flutter-at-scale.png)](https://soundcloud.com/user-910706127/transitioning-to-flutter-at-scale)
 
-### Our open-sourced work
+## Our open-sourced work
 
 [![test_track](https://github-readme-stats.vercel.app/api/pin/?username=Betterment&repo=test_track)](https://github.com/Betterment/test_track)
 [![webvalve](https://github-readme-stats.vercel.app/api/pin/?username=Betterment&repo=webvalve)](https://github.com/Betterment/webvalve)
 [![delayed](https://github-readme-stats.vercel.app/api/pin/?username=Betterment&repo=delayed)](https://github.com/Betterment/delayed)
 
-### Tech we use
+## Tech we use
 ![Ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
