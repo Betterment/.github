@@ -18,6 +18,8 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 - [@HipsterBrown](https://github.com/HipsterBrown) speaking at [JSConf Mexico](https://jsconf.mx/#speakers)
 
+- Flutter NYC meetup Dec. 2nd: [in person signup](https://www.meetup.com/flutter-nyc/events/281824008/), [virtual signup](https://www.meetup.com/DCFlutter/events/281843939/)
+
 ## Hear from our engineers
 
 ### Can I break this?: Writing resilient "save" methods - [@smudge](https://github.com/smudge)
