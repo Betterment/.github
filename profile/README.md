@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.betterment.com">
-    <img src="https://avatars.githubusercontent.com/u/871554?s=200&v=4" alt="Betterment's profile image"/>
+    <img src="https://resources.betterment.com/hubfs/Graphics/shared-assets/betterment-icon-logo.svg" alt="Betterment's profile image"/>
   </a>
 </p>
 
