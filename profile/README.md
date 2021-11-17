@@ -6,7 +6,7 @@
 
 # 👋  Hey there! It's us, Betterment Engineering.
 
-We're passionate about building the simplest, most sophisticated investment platform on the planet. We're engineering Betterment to become a top-notch fintech company. High quality code. Beautiful, practical design. A product that people love. Nerd out with us on all things tech. Check out our [engineering blog](https://www.betterment.com/category/engineering/)
+We're passionate about building the simplest, most sophisticated investment platform on the planet. We're engineering Betterment to become a top-notch fintech company. High quality code. Beautiful, practical design. A product that people love. Nerd out with us on all things tech. Check out our [engineering blog](https://www.betterment.com/category/engineering/) and our [engineering principles](https://betterment.github.io/eng-principles/)!
 
 [![We're hiring button](assets/hiring-button.svg)](https://www.betterment.com/careers/)
 
