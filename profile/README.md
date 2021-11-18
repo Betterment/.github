@@ -8,7 +8,7 @@
 
 We're passionate about building the simplest, most sophisticated investment platform on the planet. We're engineering Betterment to become a top-notch fintech company. High quality code. Beautiful, practical design. A product that people love. Nerd out with us on all things tech. Check out our [engineering blog](https://www.betterment.com/category/engineering/) and our [engineering principles](https://betterment.github.io/eng-principles/)!
 
-[![We're hiring button](assets/hiring-button.svg)](https://www.betterment.com/careers/)
+[![We're hiring button](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/hiring-button.svg)](https://www.betterment.com/careers/)
 
 ## Upcoming talks and events
 
@@ -23,13 +23,13 @@ We're passionate about building the simplest, most sophisticated investment plat
 ## Hear from our engineers
 
 ### Can I break this?: Writing resilient "save" methods - [@smudge](https://github.com/smudge)
-[![Can I break this?: Writing resilient "save" methods video link](assets/can-i-break-this-writing-resilient-save-methods.png)](https://www.youtube.com/watch?v=TuhS13rBoVY)
+[![Can I break this?: Writing resilient "save" methods video link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/can-i-break-this-writing-resilient-save-methods.png)](https://www.youtube.com/watch?v=TuhS13rBoVY)
 
 ### Transitioning to Flutter at Scale - [@samandmoore](https://github.com/samandmoore)
-[![Transitioning to Flutter at Scale audio link](assets/transitioning-to-flutter-at-scale.png)](https://soundcloud.com/user-910706127/transitioning-to-flutter-at-scale)
+[![Transitioning to Flutter at Scale audio link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/transitioning-to-flutter-at-scale.png)](https://soundcloud.com/user-910706127/transitioning-to-flutter-at-scale)
 
 ### Transforming SwiftUI to JSON (and Vice-Versa) for a fully backend driven UI - [@caffeineflo](https://github.com/caffeineflo)
-[![Transforming SwiftUI to JSON (and Vice-Versa) for a fully backend driven UI link](assets/transforming-swiftui-to-json-for-a-fully-backend-driven-ui.png)](https://youtu.be/TS2f-DbsJIE)
+[![Transforming SwiftUI to JSON (and Vice-Versa) for a fully backend driven UI link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/transforming-swiftui-to-json-for-a-fully-backend-driven-ui.png)](https://youtu.be/TS2f-DbsJIE)
 
 ## Our open-sourced work
 
