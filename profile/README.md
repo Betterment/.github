@@ -12,8 +12,6 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 ## Upcoming talks and events
 
-- [@yieldjessyield](https://github.com/yieldjessyield) and [@caffeineflo](https://github.com/caffeineflo) speaking at [droidcon london](https://www.london.droidcon.com/program/is-flutter-the-coke-zero-of-the-mobile-world%3F)
-
 - [@6f6d6172](https://github.com/6f6d6172) speaking at [rubyconf Denver](https://rubyconf.org/program/sessions#session-1211)
 
 - [@HipsterBrown](https://github.com/HipsterBrown) speaking at [JSConf Mexico](https://jsconf.mx/#speakers)
@@ -30,6 +28,9 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 ### Transforming SwiftUI to JSON (and Vice-Versa) for a fully backend driven UI - [@caffeineflo](https://github.com/caffeineflo)
 [![Transforming SwiftUI to JSON (and Vice-Versa) for a fully backend driven UI link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/transforming-swiftui-to-json-for-a-fully-backend-driven-ui.png)](https://youtu.be/TS2f-DbsJIE)
+
+### Is Flutter the Coke Zero of the mobile world? - [@yieldjessyield](https://github.com/yieldjessyield) and [@caffeineflo](https://github.com/caffeineflo)
+[![Is Flutter the Coke Zero of the mobile world? link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/is-flutter-the-coke-zero-of-the-mobile-world.png)](https://www.droidcon.com/2021/11/17/is-flutter-the-coke-zero-of-the-mobile-world/)
 
 ## Our open-sourced work
 
