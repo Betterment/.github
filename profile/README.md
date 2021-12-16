@@ -38,6 +38,7 @@ We're passionate about building the simplest, most sophisticated investment plat
 [![webvalve](https://github-readme-stats.vercel.app/api/pin/?username=Betterment&repo=webvalve)](https://github.com/Betterment/webvalve)
 [![delayed](https://github-readme-stats.vercel.app/api/pin/?username=Betterment&repo=delayed)](https://github.com/Betterment/delayed)
 [![better_test_reporter](https://github-readme-stats.vercel.app/api/pin/?username=Betterment&repo=better_test_reporter)](https://github.com/Betterment/better_test_reporter)
+[![charlatan](https://github-readme-stats.vercel.app/api/pin/?username=Betterment&repo=charlatan)](https://github.com/Betterment/charlatan)
 
 ## Tech we use
 ![Ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
