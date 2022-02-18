@@ -10,13 +10,11 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 [![We're hiring button](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/hiring-button.svg)](https://www.betterment.com/careers/)
 
+<!--
 ## Upcoming talks and events
 
-- [@6f6d6172](https://github.com/6f6d6172) speaking at [rubyconf Denver](https://rubyconf.org/program/sessions#session-1211)
-
-- [@HipsterBrown](https://github.com/HipsterBrown) speaking at [JSConf Mexico](https://jsconf.mx/#speakers)
-
-- Flutter NYC meetup Dec. 2nd: [in person signup](https://www.meetup.com/flutter-nyc/events/281824008/), [virtual signup](https://www.meetup.com/DCFlutter/events/281843939/)
+TODO add this back in when there is content
+-->
 
 ## Hear from our engineers
 
@@ -31,6 +29,9 @@ We're passionate about building the simplest, most sophisticated investment plat
 
 ### Is Flutter the Coke Zero of the mobile world? - [@yieldjessyield](https://github.com/yieldjessyield) and [@caffeineflo](https://github.com/caffeineflo)
 [![Is Flutter the Coke Zero of the mobile world? link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/is-flutter-the-coke-zero-of-the-mobile-world.png)](https://www.droidcon.com/2021/11/17/is-flutter-the-coke-zero-of-the-mobile-world/)
+
+### Migrating to Flutter the Incremental Way - [@willlockwood](https://github.com/willlockwood)
+[![Migrating to Flutter the Incremental Way link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/migrating-to-flutter-the-incremental-way.png)](https://youtu.be/e6ncTlHSlUE)
 
 ## Our open-sourced work
 
