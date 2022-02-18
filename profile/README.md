@@ -21,7 +21,7 @@ TODO add this back in when there is content
 ### Migrating to Flutter the Incremental Way - [@willlockwood](https://github.com/willlockwood)
 [![Migrating to Flutter the Incremental Way link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/migrating-to-flutter-the-incremental-way.png)](https://youtu.be/e6ncTlHSlUE)
 
-### Offline IoT: Building Resilient Connected Devices without the Internet - [@hipsterbrown](https://github.com/hipsterbrown)
+### Offline IoT: Building Resilient Connected Devices without the Internet - [@HipsterBrown](https://github.com/HipsterBrown)
 [![Offline IoT: Building Resilient Connected Devices without the Internet link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/offline-iot-building-resilient-connected-devices-without-the-internet.png)](https://youtu.be/0JROQGWCmds)
 
 ### Is Flutter the Coke Zero of the mobile world? - [@yieldjessyield](https://github.com/yieldjessyield) and [@caffeineflo](https://github.com/caffeineflo)
