@@ -105,7 +105,7 @@ TODO add this back in when there is content
 
 - [test_track](https://github.com/Betterment/test_track)
 - [webvalve](https://github.com/Betterment/webvalve)
-- [delayed](https://github.com/Betterment/delayed) |
+- [delayed](https://github.com/Betterment/delayed)
 - [better_test_reporter](https://github.com/Betterment/better_test_reporter)
 - [charlatan](https://github.com/Betterment/charlatan)
 - [alchemist](https://github.com/Betterment/alchemist)
