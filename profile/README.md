@@ -25,38 +25,36 @@ TODO add this back in when there is content
 <table>
 <tr><td>
 
+### Test Better, Build Better: The Betterment Approach - [@devinburnette](https://github.com/devinburnette)
+[![Test Better, Build Better: The Betterment Approach](assets/test_better_build_better.png)](https://www.youtube.com/watch?v=8uuZH-V6rbo)
+
+</td><td>
+
 ### The little SLI that could - [@agirlnamedsophia](https://github.com/agirlnamedsophia)
 [![The little SLI that could link](https://user-images.githubusercontent.com/83998/180072577-65b075b3-e781-4da8-8aaf-8c28a8112da2.png)](https://vimeo.com/730488164)
 
-
-</td><td>
+</td></tr>
+<tr><td>
 
 ### RAILS_ENV=demo - [@smudge](https://github.com/smudge)
 [![RailsConf 2022 - RAILS_ENV=demo link](https://user-images.githubusercontent.com/83998/180073238-b59f42e5-5c3d-4027-9558-e5a6ad6333fe.png)](https://youtu.be/VibJu9IMohc)
 
+</td><td>
   
-</td></tr>
-<tr><td>
-
 ### Migrating to Flutter the Incremental Way - [@willlockwood](https://github.com/willlockwood)
 [![Migrating to Flutter the Incremental Way link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/migrating-to-flutter-the-incremental-way.png)](https://youtu.be/e6ncTlHSlUE)
 
-</td><td>
+</td></tr>
+<tr><td>
 
 ### Offline IoT: Building Resilient Connected Devices without the Internet - [@HipsterBrown](https://github.com/HipsterBrown)
 [![Offline IoT: Building Resilient Connected Devices without the Internet link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/offline-iot-building-resilient-connected-devices-without-the-internet.png)](https://youtu.be/0JROQGWCmds)
 
-</td></tr>
-<tr><td>
-  
+</td><td>
+
 ### Squashing Security Bugs with Rubocop - [@6f6d6172](https://github.com/6f6d6172)
 [![Squashing Security Bugs with Rubocop link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/squashing-security-bugs-with-rubocop.png)](https://youtu.be/aeJIA5oD1tA)
   
-</td><td>
-
-### Is Flutter the Coke Zero of the mobile world? - [@yieldjessyield](https://github.com/yieldjessyield) and [@caffeineflo](https://github.com/caffeineflo)
-[![Is Flutter the Coke Zero of the mobile world? link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/is-flutter-the-coke-zero-of-the-mobile-world.png)](https://www.droidcon.com/2021/11/17/is-flutter-the-coke-zero-of-the-mobile-world/)
-
 </td></tr>
 </table>
 
@@ -66,33 +64,44 @@ TODO add this back in when there is content
 <table>
 <tr><td>
 
+### Is Flutter the Coke Zero of the mobile world? - [@yieldjessyield](https://github.com/yieldjessyield) and [@caffeineflo](https://github.com/caffeineflo)
+[![Is Flutter the Coke Zero of the mobile world? link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/is-flutter-the-coke-zero-of-the-mobile-world.png)](https://www.droidcon.com/2021/11/17/is-flutter-the-coke-zero-of-the-mobile-world/)
+
+</td><td>
+
 ### Transforming SwiftUI to JSON (and Vice-Versa) for a fully backend driven UI - [@caffeineflo](https://github.com/caffeineflo)
 [![Transforming SwiftUI to JSON (and Vice-Versa) for a fully backend driven UI link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/transforming-swiftui-to-json-for-a-fully-backend-driven-ui.png)](https://youtu.be/TS2f-DbsJIE)
 
-</td><td>
+</td></tr>
+<tr><td>
   
 ### Can I break this?: Writing resilient "save" methods - [@smudge](https://github.com/smudge)
 [![Can I break this?: Writing resilient "save" methods video link](https://user-images.githubusercontent.com/83998/180075460-7f8b58a3-e49f-47a9-9ef4-08928cbe413c.png)](https://www.youtube.com/watch?v=TuhS13rBoVY)
 
-</td></tr>
-<tr><td>
+</td><td>
   
 ### Transitioning to Flutter at Scale - [@samandmoore](https://github.com/samandmoore)
 [![Transitioning to Flutter at Scale audio link](https://raw.githubusercontent.com/Betterment/.github/main/profile/assets/transitioning-to-flutter-at-scale.png)](https://soundcloud.com/user-910706127/transitioning-to-flutter-at-scale)
   
-</td><td>
+</td></tr>
+<tr><td>
 
 ### Hot Swapping Our Rails Front End In Secret - [@chrislopresto](https://github.com/chrislopresto)
 [![Hot Swapping Our Rails Front End In Secret - A Rebrand Story link](https://user-images.githubusercontent.com/83998/180074060-59164fd9-5ede-4015-b7c5-95dd9569f2c3.png)](https://youtu.be/Egumr5KiTNI)
   
+</td><td>
+
+### Giving users shell access and feeling good about it - [@devinburnette](https://github.com/devinburnette)
+[![Giving users shell access and feeling good about it](assets/giving_users_shell_access.png)](https://www.youtube.com/watch?v=HiTe9lKCmJk)
+
 </td></tr>
 <tr><td>
-
+  
 ### Nonconformist Resilience: DB-backed Job Queues - [@jmileham](https://github.com/jmileham)
 [![Nonconformist Resilience: DB-backed Job Queues link](https://user-images.githubusercontent.com/83998/180076579-322821d6-95d1-43c7-bda4-798c5f36d422.jpg)](https://www.infoq.com/presentations/betterment-delayed-job/)
 
 </td><td>
-  
+
 ### Integrate HTTP Services like a Boss - [@samandmoore](https://github.com/samandmoore)
 [![Integrate HTTP Services like a Boss link](https://user-images.githubusercontent.com/83998/180076767-8e165a05-19ca-42c4-a4e2-48659e647c5c.png)](https://youtu.be/Nd9hnffxCP8)
 
